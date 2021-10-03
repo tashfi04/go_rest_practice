@@ -1,0 +1,10 @@
+server:
+  port: 3306
+
+database:
+  dbname: "go_rest_test_db"
+  dbuser: "root"
+  dbpassword: "011235813"
+
+EXAMPLE_VAR: "variable from config.yml"
+EXAMPLE_PATH: "path from config.yml"
